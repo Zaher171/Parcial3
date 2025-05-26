@@ -1,5 +1,8 @@
 # Parcial3
 ZAHER EDDIN SELLAKH RABAHI
+
+
+
 ![image](https://github.com/user-attachments/assets/c9c7c965-66c4-41ee-a3fc-f5dd1b6b123f)
 ![image](https://github.com/user-attachments/assets/36dfa2bc-e286-4fe0-a9e8-e1e4348dbc62)
 ![image](https://github.com/user-attachments/assets/c26c44b3-24e7-43b5-a42d-6b8bd613adeb)
